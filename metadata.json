@@ -1,0 +1,8 @@
+{
+  "name": "Remix Transfermóvil Pro",
+  "description": "Banca móvil avanzada para Cuba con autodetección de saldo bancario por SMS, gestión de tarjetas BPA, BANDEC, BANMET, pago de servicios y clave de acceso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
